@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://unizuavo.github.io/sitemap_index.unizuavo
